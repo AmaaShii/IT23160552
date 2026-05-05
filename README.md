@@ -4,7 +4,7 @@
 Automated Testing for Singlish to Sinhala Transliteration System
 
 ## Repository
-
+https://github.com/AmaaShii/IT23160552.git
 ---
 
 ## Project Structure
